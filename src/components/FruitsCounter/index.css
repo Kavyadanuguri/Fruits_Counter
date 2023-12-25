@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.con2 {
+  display: flex;
+  flex-direction: row;
+}
+.bg-container {
+  background-color: #ffd569;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.con1 {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.heading {
+  color: #000000;
+  font-weight: bold;
+}
+.s1 {
+  color: #ffd569;
+  font-weight: bold;
+}
+.image {
+  height: 300px;
+  width: 400px;
+}
+.button {
+  background-color: #007bff;
+  width: 150px;
+  color: #ffffff;
+  height: 50px;
+  border-width: 0px;
+  border-radius: 10px;
+  font-family: 'roboto';
+}
